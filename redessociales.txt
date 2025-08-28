@@ -19,10 +19,6 @@ youtube.com
 ytimg.com
 googlevideo.com
 
-# WhatsApp
-whatsapp.com
-whatsapp.net
-
 # Snapchat
 snapchat.com
 scdn.co
@@ -48,7 +44,3 @@ discord.gg
 twitch.tv
 ttvnw.net
 
-# Telegram
-telegram.org
-t.me
-web.telegram.org
